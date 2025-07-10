@@ -15,7 +15,6 @@ Luego, levanta el servidor con:
  
 mvn spring-boot:run
 Si todo va bien, deberías ver:
-De estar levantando en el puerto: 
 Tomcat started on port(s): 8080
 Su url local para probar desde Postman:
 http://localhost:8080
@@ -23,9 +22,7 @@ http://localhost:8080
 POST /api/pedidos
 
 🔸 Headers:
-pgsql
-Copiar
-Editar
+ 
 Content-Type: application/json
 🔸 Body:
  
